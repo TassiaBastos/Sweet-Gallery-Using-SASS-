@@ -38,3 +38,5 @@ In short, we can say that Sass is a CSS preprocessor, which adds special feature
 - And the new file 'styles.css' will be create based to 'styles.sass' file.
 
 6. If you have, use the Live Server extension to open the site to the browser. If not, give a double click on the html file inside the project folder
+
+![sweetGallery](https://user-images.githubusercontent.com/14933152/138951695-1edfaa53-1856-49db-a86c-41b60ade7555.PNG)
